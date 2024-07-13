@@ -2,10 +2,10 @@
 // @name         truenas disk locator
 // @namespace    http://tampermonkey.net/
 // @version      2024-07-13
-// @description  try to take over the world!
+// @description  add layout overlay for truenas
 // @author       You
 // @match        https://truenas/*
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=undefined.truenas
+// @icon         https://truenas/ui/assets/favicons/favicon.ico
 // @grant GM_setValue
 // @grant GM_getValue
 // ==/UserScript==
