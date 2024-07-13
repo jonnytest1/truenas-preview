@@ -167,7 +167,7 @@ authSocket.addEventListener("message", (m) => {
 
 setInterval(() => {
 
-    if(document.querySelector(".actions-container") && !document.querySelector(".actions-container .insertLBtn") && editmode) {
+    if(location.pathname.endsWith("/storage/disks") && document.querySelector(".actions-container") && !document.querySelector(".actions-container .insertLBtn") && editmode) {
         const addImageButton = document.createElement("input")
         addImageButton.placeholder = "drag/paste disk layout image here";
         addImageButton.classList.add("insertLBtn")
