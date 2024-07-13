@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         truenas disk locator
 // @namespace    http://tampermonkey.net/
-// @version      2024-07-13
+// @version      2024-07-13.2
 // @description  add layout overlay for truenas
 // @author       You
 // @match        https://truenas/*
