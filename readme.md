@@ -6,7 +6,7 @@
 https://www.tampermonkey.net/
 2. then on your trueNas website use the tampermonkey extension to "Create a new script"
 3. copy [tampermonkey-script.js](tampermonkey-script.js) as the new script
-4. (probably neccessary to adjust the @match part for your current url)
+4. (probably neccessary to adjust the @match part (in line 7) for your current url)
 
 
 
