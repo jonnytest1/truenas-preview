@@ -6,6 +6,7 @@
 // @author       You
 // @match        https://truenas/*
 // @icon         https://truenas/ui/assets/favicons/favicon.ico
+// @license MIT
 // @grant GM_setValue
 // @grant GM_getValue
 // ==/UserScript==
